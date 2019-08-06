@@ -1,5 +1,4 @@
-For the TTS.py file, you can make text to speech words as your alarm. 
-The Facedetect.py file is self explanitory, it sets of the alarm that you have saved if it detects a face.
+
 
 Needed custom packages (all python3):
 
