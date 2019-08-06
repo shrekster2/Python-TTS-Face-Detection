@@ -1,0 +1,25 @@
+For the TTS.py file, you can make text to speech words as your alarm. 
+The Facedetect.py file is self explanitory, it sets of the alarm that you have saved if it detects a face.
+
+Needed custom packages (all python3):
+
+opencv
+numpy
+pyttsx3
+
+
+for pyttsx3 you need Espeak:
+linux: sudo apt-get install espeak
+windows: http://espeak.sourceforge.net/
+
+-----------------
+Opening file in linux (and windows):
+
+open the terminal (in windows cmd)
+type cd "/path/to/directory/"
+type python3 Randomdetect.py
+--------------------------
+make custom word list:
+make sure the file is a txt and it's called words
+line break every word
+----------------------------
