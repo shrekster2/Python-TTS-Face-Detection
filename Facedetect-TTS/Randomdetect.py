@@ -10,7 +10,7 @@ import datetime as dt
 from time import sleep
 print(' ')
 print(' ')
-print('Press Q to exit. This program plays an alarm when it detects a face. This also takes pictures until a set amount of pictures.')
+print('Press Q to exit. This program plays a random text to speech word when it detects a face. This also takes pictures until a set amount of pictures.')
 print(' ')
 Webcampick = int(input('Which webcam to use? 0=default 1=secondary:'))
 print(' ')
