@@ -29,5 +29,6 @@ make sure the file is a txt and it's called words
 line break every word
 ----------------------------
 
-This was only tested as of August 6 2019 on linux.
+This was tested as of August 6 2019 on Ubuntu linux and windows 10.
 distro: Ubuntu MATE 19.04 with python 3.73
+windows: python 3.74
