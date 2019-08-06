@@ -23,3 +23,6 @@ make custom word list:
 make sure the file is a txt and it's called words
 line break every word
 ----------------------------
+
+This was only tested as of August 6 2019 on linux.
+distro: Ubuntu MATE 19.04 with python 3.73
