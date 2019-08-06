@@ -12,11 +12,17 @@ linux: sudo apt-get install espeak
 windows: http://espeak.sourceforge.net/
 
 -----------------
-Opening file in linux (and windows):
+Opening file in linux:
 
 open the terminal (in windows cmd)
 type cd "/path/to/directory/"
 type python3 Randomdetect.py
+
+opening file in windows:
+windows key + R
+type CMD
+type cd "/path/to/file/"
+drag python file to cmd window
 --------------------------
 make custom word list:
 make sure the file is a txt and it's called words
